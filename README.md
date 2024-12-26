@@ -1,6 +1,6 @@
 # TatukGIS Developer Kernel for Python <img align="right" width="128" height="128" alt="DK11" src="https://docs.tatukgis.com/DK11/_media/dk_logo.png">
 
-[PyPi](https://pypi.org/project/tatukgis-pdk/) | **GitHub** | [Samples](https://github.com/TatukGIScom/DK.Python) | [Discusssions](https://github.com/TatukGIScom/DK.Python/discussions) | [Documentation](https://docs.tatukgis.com/dk11) | [Web site](https://www.tatukgis.com)
+[PyPi](https://pypi.org/project/tatukgis-pdk/) | **GitHub** | [Samples](https://github.com/TatukGIScom/DK.Python-Samples) | [Discusssions](https://github.com/TatukGIScom/DK.Python/discussions) | [Documentation](https://docs.tatukgis.com/dk11) | [Web site](https://www.tatukgis.com)
 
 ---
 
