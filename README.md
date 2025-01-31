@@ -20,11 +20,11 @@ Enterprise features of TatukGIS Developer Kernel - including support for advance
 This product is available free of charge for personal, educational, and commercial use, with the requirement that any created application must be open source. 
 
 ## Features
-- Supports reading and writing common GIS data formats, including CSV, DLG, DGN, DXF, DWG, E00, GDF, GML, GPX, GSHHS, JSON, KML, LandXML, LAS, MIF, OSM, PLY, SDTS, ShapeFile (SHP), S57, STL, TAB, TIGER, VPF, IFC, ADF, BIL, BMP, BT, CADRG, DEM, DT, FLT, GIF, GRD, IMG, JPEG, PNG, SDTS, STRM, TIFF/GeoTIFF, ECW, JPEG2000, ESRI Personal Geodatabase, ESRI File Geodatabase, GDAL/OGR, FME, vector and image data stored in SQLite, Oracle, Postgres, MSSQL and [much more](https://docs.tatukgis.com/DK11/doc:layer-formats).
+- Supports reading and writing common GIS data formats, including CSV, DLG, DGN, DXF, DWG, E00, GDF, GML, GPX, GSHHS, JSON, KML, LandXML, LAS, MIF, OSM, PLY, SDTS, ShapeFile (SHP), S57, STL, TAB, TIGER, VPF, IFC, ADF, BIL, BMP, BT, CADRG, DEM, DT, FLT, GIF, GRD, IMG, JPEG, PNG, SDTS, STRM, TIFF/GeoTIFF, ECW, JPEG2000, ESRI Personal Geodatabase, ESRI File Geodatabase, GDAL/OGR, FME, vector and image data stored in SQLite, Oracle, Postgres, MSSQL and much more. Full supported format list is available at [Layer Formats](https://docs.tatukgis.com/DK11/doc:layer-formats).
 - Supports WMS, WMTS, and WFS protocols.
 - Provides powerful map presentation with interactive map operations, including online geometry editing.
 - Includes coordinate system support with on-the-fly reprojection of vector and image data.
-- Enables data querying using spatial relations.
+- Enables data querying using spatial operations.
 - Offers advanced styling with extensive symbology options.
 - Supports online data editing.
 - Provides a powerful API, including:
